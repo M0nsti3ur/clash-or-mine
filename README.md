@@ -1,2 +1,2 @@
-# clash-or-mine
+# Clash or Mine ⚒
 Video game and minecraft server extension 
